@@ -1,4 +1,6 @@
+/* eslint-disable react/no-unescaped-entities */
 // components/Footer.jsx
+ // eslint-disable-next-line react/no-unescaped-entities
 
 const Footer = () => {
     return (
@@ -6,6 +8,7 @@ const Footer = () => {
         <hr/>
         <div className="footer-container">
           <p>
+            
             © {new Date().getFullYear()} Nimra's Portfolio
           </p>
           <div className="social_icons">

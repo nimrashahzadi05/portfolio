@@ -1,3 +1,8 @@
+/* eslint-disable react/no-unescaped-entities */
+
+ // eslint-disable-next-line react/no-unescaped-entities
+
+ 
 import Image from "next/image";
 
 const Hero = () => {

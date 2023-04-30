@@ -1,3 +1,4 @@
+/* eslint-disable react/no-unescaped-entities */
 // components/Navbar.jsx
 
 import Link from "next/link";
